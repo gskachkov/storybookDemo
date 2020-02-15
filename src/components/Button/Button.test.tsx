@@ -1,4 +1,5 @@
 // @ts-ignore
-it('is storybook works', () => {
-    expect(1).toBe(1);
+it('test simulation', () => {
+    expect(true).toBe(true)
 });
+
