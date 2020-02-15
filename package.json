@@ -25,7 +25,8 @@
     "prebuild:storybook": "yarn test:generate-output",
     "storybook": "start-storybook -p 9010 -s public",
     "build-storybook": "build-storybook -s public",
-    "cypress": "cypress open"
+    "cypress": "cypress open",
+    "deploy": "gh-pages -b master -d build"
   },
   "eslintConfig": {
     "extends": "react-app"
