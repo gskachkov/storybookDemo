@@ -1,6 +1,5 @@
 {
   "integrationFolder": "src",
   "testFiles": "**/*.cypress.spec.js",
-  "baseUrl": "http://192.168.1.177:9010"
-
+  "baseUrl": "http://localhost:9010"
 }
