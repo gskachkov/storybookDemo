@@ -1,0 +1,14 @@
+.default:hover{
+    background: cornflowerblue;
+}
+.red:hover{
+    background: darkred;
+    color: white;
+}
+.green:hover{
+    background: darkgreen;
+    color: white;
+}
+
+
+/*# sourceMappingURL=main.47b4b43c.chunk.css.map*/
