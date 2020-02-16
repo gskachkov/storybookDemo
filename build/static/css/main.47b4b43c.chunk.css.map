@@ -1,0 +1,1 @@
+{"version":3,"sources":["Button.css"],"names":[],"mappings":"AAAA,eACI,kBACJ,CACA,WACI,kBAAmB,CACnB,UACJ,CACA,aACI,kBAAqB,CACrB,UACJ","file":"main.47b4b43c.chunk.css","sourcesContent":[".default:hover{\n    background: cornflowerblue;\n}\n.red:hover{\n    background: darkred;\n    color: white;\n}\n.green:hover{\n    background: darkgreen;\n    color: white;\n}\n"]}
